@@ -3,11 +3,6 @@
 - 19 years old
 - São Carlos, SP , Brazil
 - Software engeneering student in IFSP-São Carlos
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gcontiero11&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Gustavo's github stats" /></a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcontiero11&layout=compact&theme=dark&hide_border=true" /></a>
-</div>
 
 ---
 
@@ -25,9 +20,4 @@
 <a href="https://instagram.com/gustavo_contiero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 
-## Top Repositories
-
-<a href="https://github.com/gcontiero11/Python_Exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gcontiero11&repo=Python_Exercises&theme=dark"/>
-</a>
 
