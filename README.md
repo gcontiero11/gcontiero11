@@ -1,6 +1,6 @@
 # About Me
 - My name is **Gustavo Gomes Contiero**
-- 19 years old
+- 20 years old
 - São Carlos, SP , Brazil
 - Software engeneering student in IFSP-São Carlos
 
