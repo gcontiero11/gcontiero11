@@ -3,11 +3,10 @@
 - 20 years old
 - São Carlos, SP , Brazil
 - Software engeneering student in IFSP-São Carlos
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&theme=vision-friendly-dark&show_icons=true">
 
 ---
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcontiero11&layout=compact">
-</div>
 
 <div>
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,6 +17,10 @@
   <img align="center" alt="Javascript-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Typescript-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcontiero11&layout=compact">
 </div>
   
 ---
