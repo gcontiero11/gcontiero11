@@ -18,7 +18,7 @@
   <img align="center" alt="Typescript-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
 </div>
-
+</br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcontiero11&layout=compact">
 </div>
