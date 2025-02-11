@@ -4,7 +4,7 @@
 - São Carlos, SP , Brazil
 - Software engeneering student in IFSP-São Carlos
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&theme=vision-friendly-dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=gcontiero11&theme=vision-friendly-dark&show_icons=true">
 
 ---
 
