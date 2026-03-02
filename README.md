@@ -49,6 +49,7 @@
       <img align="center" alt="AndroidStudio-Icon" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
       <img align="center" alt="Figma-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
   </div>
+  
 ---
           
 <div>
@@ -56,6 +57,8 @@
 <a href="https://www.linkedin.com/in/gustavo-contiero-237207271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gustavo_contiero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
+
+---
 
 #### EasterEgg
 <div>
